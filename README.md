@@ -5,8 +5,11 @@ The fictional company, Lumiora, specializes in selling cameras and camera equipm
 ## Objectives
 
 Collect customer feedback through a survey sent in a newsletter (built using Streamlit).
+
 Analyze the survey data to uncover customer preferences, behaviors, and trends.
+
 Visualize the results using Tableau dashboards to provide actionable insights.
+
 Guide marketing efforts with data-driven insights to improve customer targeting and engagement.
 
 ## Project Components
@@ -22,20 +25,30 @@ The responses were saved in an Excel file for further analysis.
 The survey responses were saved in an Excel sheet, which contains information such as:
 
 Demographics (age, gender, location)
+
 Product preferences (brands, cameras, lenses)
+
 User behaviour (main fields of photography, experience)
+
 Brand development (gain and loss of users, usage in different fields)
+
 Customer satisfaction levels
 
 
 ### Tableau Dashboards:
 
 The data collected was imported into Tableau for detailed analysis and visualization.
+
 Several dashboards were created to present different aspects of the customer, such as:
+
 Customer Demographics Breakdown
+
 Product Preferences and Popularity
+
 Gender related choices
+
 Experience and age related choices
+
 Customer Satisfaction
 
 A Tableau Story was built to provide a cohesive narrative of the findings from the dashboards, allowing for easy interpretation of insights.
