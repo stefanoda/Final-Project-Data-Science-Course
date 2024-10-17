@@ -1,0 +1,551 @@
+ID;Age;Country;State;Gender;Level;Starting Year;Main Field of Photography;First Camera Brand;Previous Camera Brand;Current Camera Brand;Sensor Size;Current Camera Model;Amount of Lenses;Preferred Lens Type;Favourite Focal Length;Shooting in Film?;Are you happy with your gear?
+1;38;Australia;New South Wales;Male;Enthusiast;2012;Wildlife;Nikon;Sony;Canon;Full-Frame;Canon EOS 5D Mark IV;3;Zoom;100-400mm;No;Yes
+2;26;Italy;Abruzzo;Female;Hobbyist;2018;Portrait;Canon;Canon;Canon;APS-C;Canon EOS 90D;2;Prime;50mm;No;No
+3;42;Italy;Tuscany;Male;Professional;2000;Fashion;Pentax;Nikon;Sony;Full-Frame;Sony A7 III;5;Prime;35mm;Yes;Yes
+4;30;Germany;Hesse;Male;Hobbyist;2015;Street;Sony;Canon;Fujifilm;APS-C;Fujifilm X-T30;2;Zoom;18-55mm;No;Yes
+5;47;Japan;Tokyo;Female;Enthusiast;2003;Landscape;Canon;Canon;Nikon;Full-Frame;Nikon D850;4;Zoom;14-24mm;Yes;Yes
+6;34;Germany;Bavaria;Male;Professional;2010;Event;Sony;Sony;Canon;Full-Frame;Canon EOS R6;6;Zoom;24-70mm;No;Yes
+7;29;United Kingdom;Scotland;Female;Enthusiast;2016;Macro;Nikon;Nikon;Sony;APS-C;Sony A6600;3;Prime;90mm;No;No
+8;50;United States;New York;Male;Professional;1985;Documentary;Canon;Nikon;Leica;Full-Frame;Leica SL2;4;Prime;35mm;Yes;Yes
+9;37;United States;Utah;Female;Hobbyist;2014;Wildlife;Sony;Sony;Canon;APS-C;Canon EOS 77D;3;Zoom;70-300mm;No;Yes
+10;32;Spain;Catalonia;Male;Enthusiast;2011;Travel;Fujifilm;Canon;Fujifilm;APS-C;Fujifilm X-T3;2;Prime;23mm;No;Yes
+11;45;United States;Arizona;Female;Professional;1998;Wedding;Nikon;Canon;Nikon;Full-Frame;Nikon D780;5;Zoom;24-70mm;No;Yes
+12;28;France;Provence;Male;Hobbyist;2017;Street;Canon;Canon;Fujifilm;APS-C;Fujifilm X100V;1;Prime;23mm;No;Yes
+13;39;United Kingdom;Scotland;Female;Professional;2005;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon Z7 II;6;Prime;500mm;Yes;Yes
+14;54;Canada;British Columbia;Male;Enthusiast;1990;Landscape;Pentax;Nikon;Fujifilm;APS-C;Fujifilm GFX 50R;3;Zoom;16-55mm;Yes;Yes
+15;31;New Zealand;Auckland;Male;Professional;2012;Portrait;Canon;Canon;Nikon;Full-Frame;Nikon Z6;4;Prime;85mm;No;Yes
+16;36;Italy;Lombardy;Male;Professional;2007;Sports;Sony;Canon;Sony;Full-Frame;Sony A9 II;5;Zoom;70-200mm;No;Yes
+17;40;Australia;Victoria;Female;Hobbyist;2010;Travel;Nikon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M1 Mark III;2;Zoom;12-40mm;No;No
+18;24;New Zealand;Auckland;Male;Enthusiast;2018;Portrait;Canon;Canon;Sony;APS-C;Sony A6100;1;Prime;50mm;No;No
+19;33;United States;Texas;Male;Professional;2013;Fashion;Nikon;Canon;Canon;Full-Frame;Canon EOS 5D Mark III;4;Prime;50mm;Yes;Yes
+20;27;Germany;Hesse;Male;Hobbyist;2015;Landscape;Fujifilm;Fujifilm;Fujifilm;APS-C;Fujifilm X-E4;2;Zoom;10-24mm;No;Yes
+21;49;United States;Florida;Female;Enthusiast;2002;Wildlife;Nikon;Sony;Canon;Full-Frame;Canon EOS R5;4;Zoom;100-400mm;Yes;Yes
+22;35;France;Paris;Male;Professional;2011;Commercial;Sony;Canon;Sony;Full-Frame;Sony A7R III;5;Prime;35mm;No;Yes
+23;41;Japan;Osaka;Female;Enthusiast;2008;Street;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;23mm;No;Yes
+24;55;Canada;Alberta;Male;Professional;1985;Documentary;Nikon;Canon;Nikon;Full-Frame;Nikon Z6 II;4;Prime;35mm;Yes;Yes
+25;28;Germany;Berlin;Male;Hobbyist;2019;Portrait;Sony;Sony;Canon;APS-C;Canon EOS M50;2;Prime;50mm;No;Yes
+26;47;United Kingdom;Wales;Male;Enthusiast;2001;Travel;Pentax;Nikon;Canon;Full-Frame;Canon EOS 6D;3;Zoom;24-105mm;No;Yes
+27;39;Italy;Lazio;Female;Professional;2009;Wedding;Canon;Canon;Nikon;Full-Frame;Nikon D750;5;Zoom;24-70mm;No;Yes
+28;30;France;Normandy;Male;Hobbyist;2014;Street;Sony;Sony;Fujifilm;APS-C;Fujifilm X-T20;2;Prime;35mm;No;Yes
+29;44;Canada;Ontario;Male;Professional;2003;Commercial;Nikon;Canon;Nikon;Full-Frame;Nikon D850;4;Zoom;70-200mm;Yes;Yes
+30;36;Italy;Sicily;Male;Professional;2010;Sports;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;6;Zoom;70-200mm;No;Yes
+31;29;United States;Illinois;Female;Hobbyist;2016;Landscape;Sony;Sony;Canon;APS-C;Canon EOS M6;2;Zoom;10-18mm;No;Yes
+32;37;Australia;Queensland;Male;Enthusiast;2010;Wildlife;Nikon;Nikon;Canon;Full-Frame;Canon EOS R6;4;Zoom;100-400mm;Yes;Yes
+33;53;Japan;Hokkaido;Female;Professional;1980;Landscape;Pentax;Nikon;Sony;Full-Frame;Sony A7 II;5;Prime;24mm;Yes;Yes
+34;34;Germany;Saxony;Male;Professional;2011;Portrait;Sony;Canon;Nikon;Full-Frame;Nikon Z7;4;Prime;85mm;No;No
+35;26;Canada;Alberta;Female;Hobbyist;2019;Portrait;Canon;Canon;Fujifilm;APS-C;Fujifilm X-T4;2;Prime;35mm;No;Yes
+36;38;United States;Florida;Male;Enthusiast;2008;Landscape;Canon;Sony;Canon;Full-Frame;Canon EOS R;3;Zoom;16-35mm;Yes;No
+37;31;United States;Colorado;Female;Professional;2013;Wedding;Nikon;Canon;Nikon;Full-Frame;Nikon D750;5;Prime;50mm;No;Yes
+38;44;Canada;Quebec;Male;Enthusiast;2005;Travel;Canon;Sony;Nikon;APS-C;Nikon D500;3;Zoom;18-300mm;No;Yes
+39;28;Italy;Lazio;Male;Hobbyist;2016;Street;Sony;Canon;Canon;APS-C;Canon EOS M50;2;Prime;35mm;No;Yes
+40;52;United States;Nevada;Male;Professional;1995;Fashion;Nikon;Canon;Sony;Full-Frame;Sony A7 III;5;Prime;50mm;Yes;Yes
+41;30;Singapore;Central Region;Male;Hobbyist;2018;Travel;Fujifilm;Fujifilm;Canon;APS-C;Canon EOS 90D;2;Zoom;18-135mm;No;No
+42;46;Spain;Madrid;Male;Professional;2004;Landscape;Sony;Canon;Sony;Full-Frame;Sony A7R IV;6;Prime;24mm;Yes;Yes
+43;35;United States;California;Male;Enthusiast;2004;Landscape;Canon;Sony;Sony;Full-Frame;Sony A7 III;2;Zoom;50mm;No;Yes
+44;27;Germany;Bavaria;Female;Hobbyist;2014;Portrait;Nikon;Nikon;Canon;APS-C;Canon EOS 90D;1;Prime;50mm;No;Yes
+45;42;United Kingdom;England;Male;Professional;1999;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;4;Zoom;24-70mm;Yes;Yes
+46;30;Canada;Ontario;Male;Enthusiast;2008;Street;Sony;Canon;Fujifilm;APS-C;Fujifilm X-T4;2;Prime;35mm;No;Yes
+47;48;France;Île-de-France;Female;Professional;1990;Architecture;Nikon;Canon;Nikon;Full-Frame;Nikon Z7;4;Zoom;24-70mm;Yes;Yes
+48;34;Italy;Tuscany;Male;Professional;2006;Wedding;Sony;Canon;Sony;Full-Frame;Sony A9 II;5;Zoom;50mm;No;Yes
+49;22;United States;Texas;Female;Hobbyist;2016;Travel;Canon;Canon;Canon;APS-C;Canon EOS M50;1;Zoom;18-55mm;No;No
+50;45;United States;New York;Male;Enthusiast;1998;Wildlife;Nikon;Nikon;Canon;Full-Frame;Canon EOS R5;3;Zoom;100-400mm;No;Yes
+51;36;Spain;Catalonia;Female;Hobbyist;2007;Street;Fujifilm;Canon;Fujifilm;APS-C;Fujifilm X-T3;2;Prime;23mm;No;Yes
+52;59;Canada;Quebec;Male;Professional;1980;Documentary;Canon;Nikon;Sony;Full-Frame;Sony A7 III;5;Prime;35mm;Yes;Yes
+53;28;United States;Colorado;Female;Enthusiast;2015;Macro;Nikon;Nikon;Sony;APS-C;Sony A6400;1;Prime;90mm;No;Yes
+54;31;United States;Illinois;Male;Hobbyist;2006;Portrait;Sony;Sony;Canon;APS-C;Canon EOS 80D;2;Prime;50mm;No;Yes
+55;39;Germany;Saxony;Female;Professional;1997;Sports;Canon;Canon;Nikon;Full-Frame;Nikon D850;6;Zoom;70-200mm;No;Yes
+56;47;United Kingdom;Scotland;Male;Enthusiast;1992;Landscape;Pentax;Canon;Nikon;Full-Frame;Nikon Z6 II;3;Zoom;14-24mm;Yes;Yes
+57;24;United States;Florida;Female;Hobbyist;2016;Portrait;Canon;Canon;Canon;APS-C;Canon EOS Rebel T7;1;Prime;50mm;No;Yes
+58;58;United States;Virginia;Male;Professional;1985;Fashion;Nikon;Canon;Sony;Full-Frame;Sony A7R III;4;Zoom;24-70mm;Yes;Yes
+59;33;Canada;Alberta;Male;Hobbyist;2010;Wildlife;Sony;Sony;Nikon;APS-C;Nikon D7500;1;Zoom;70-300mm;No;Yes
+60;40;United States;Washington;Male;Enthusiast;2001;Travel;Canon;Sony;Canon;Full-Frame;Canon EOS 5D Mark IV;3;Zoom;24-105mm;Yes;Yes
+61;32;France;Normandy;Female;Professional;2006;Street;Nikon;Canon;Sony;Full-Frame;Sony A7 III;4;Prime;50mm;No;Yes
+62;51;Italy;Sicily;Male;Professional;1987;Commercial;Sony;Nikon;Canon;Full-Frame;Canon EOS R6;5;Zoom;24-70mm;Yes;Yes
+63;26;United States;Ohio;Male;Hobbyist;2019;Portrait;Canon;Canon;Sony;APS-C;Sony A6000;1;Prime;50mm;No;Yes
+64;55;Germany;North Rhine-Westphalia;Male;Professional;1985;Documentary;Canon;Nikon;Nikon;Full-Frame;Nikon Z6 II;5;Zoom;24-70mm;Yes;Yes
+65;37;United Kingdom;Wales;Female;Hobbyist;2004;Travel;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-E4;2;Zoom;18-55mm;No;Yes
+66;44;France;Provence;Male;Professional;1993;Fashion;Nikon;Canon;Sony;Full-Frame;Sony A9;4;Prime;85mm;Yes;Yes
+67;29;United States;Arizona;Male;Hobbyist;2012;Macro;Nikon;Nikon;Canon;APS-C;Canon EOS 80D;1;Prime;100mm;No;No
+68;41;Canada;British Columbia;Male;Enthusiast;2000;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon D850;3;Zoom;200-500mm;Yes;Yes
+69;46;Germany;Hesse;Male;Professional;1995;Landscape;Canon;Nikon;Fujifilm;Medium Format;Fujifilm GFX 50S;4;Prime;32-64mm;Yes;Yes
+70;53;United States;Nevada;Male;Enthusiast;1991;Portrait;Sony;Canon;Sony;Full-Frame;Sony A7 II;2;Zoom;24-70mm;Yes;No
+71;34;United States;New York;Male;Professional;2008;Event;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;4;Zoom;70-200mm;No;Yes
+72;38;United States;California;Male;Hobbyist;2003;Travel;Fujifilm;Fujifilm;Canon;APS-C;Canon EOS M6;2;Prime;35mm;No;Yes
+73;25;Italy;Lazio;Female;Enthusiast;2014;Street;Sony;Sony;Canon;APS-C;Canon EOS 250D;1;Prime;50mm;No;Yes
+74;32;United States;Georgia;Male;Hobbyist;2008;Landscape;Canon;Nikon;Sony;APS-C;Sony A6500;2;Zoom;16-50mm;No;Yes
+75;50;United Kingdom;London;Female;Professional;1989;Documentary;Canon;Canon;Nikon;Full-Frame;Nikon D780;5;Zoom;24-70mm;Yes;Yes
+76;21;United States;Pennsylvania;Male;Hobbyist;2017;Portrait;Canon;Canon;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;50mm;No;Yes
+77;39;United States;Massachusetts;Female;Professional;2002;Fashion;Nikon;Canon;Sony;Full-Frame;Sony A7 III;4;Prime;50mm;Yes;Yes
+78;27;Germany;Hamburg;Male;Hobbyist;2013;Macro;Canon;Canon;Nikon;APS-C;Nikon D7500;2;Prime;90mm;No;Yes
+79;56;France;Île-de-France;Female;Enthusiast;1985;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon Z6;3;Zoom;100-400mm;Yes;Yes
+80;29;United States;Texas;Male;Professional;2011;Portrait;Sony;Canon;Canon;Full-Frame;Canon EOS R5;4;Zoom;50mm;No;Yes
+81;35;United States;Illinois;Female;Hobbyist;2009;Travel;Fujifilm;Canon;Fujifilm;APS-C;Fujifilm X100F;1;Prime;23mm;No;No
+82;41;Australia;Victoria;Male;Professional;1999;Wildlife;Canon;Nikon;Hasselblad;Medium Format;Hasselblad X1D II;4;Zoom;35-75mm;Yes;No
+83;28;Japan;Tokyo;Female;Enthusiast;2014;Street;Fujifilm;Canon;Leica;Full-Frame;Leica Q;1;Prime;28mm;No;Yes
+84;47;United Kingdom;England;Male;Professional;1991;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A7R III;5;Prime;50mm;Yes;Yes
+85;30;United States;California;Female;Hobbyist;2014;Portrait;Sony;Sony;Canon;APS-C;Canon EOS 90D;2;Prime;50mm;No;Yes
+86;52;United States;Michigan;Male;Professional;1980;Sports;Canon;Nikon;Canon;Full-Frame;Canon EOS 1D X Mark III;5;Zoom;70-200mm;Yes;Yes
+87;28;United States;Arizona;Male;Hobbyist;2017;Macro;Nikon;Nikon;Canon;APS-C;Canon EOS 70D;1;Prime;100mm;No;Yes
+88;61;United Kingdom;England;Male;Enthusiast;1990;Wildlife;Pentax;Canon;Nikon;Full-Frame;Nikon D850;4;Zoom;100-400mm;Yes;Yes
+89;38;United States;California;Male;Enthusiast;2003;Landscape;Canon;Nikon;Canon;Full-Frame;Canon EOS 6D Mark II;2;Zoom;24-70mm;No;Yes
+90;27;Germany;Berlin;Female;Hobbyist;2016;Portrait;Nikon;Nikon;Fujifilm;APS-C;Fujifilm X-T20;1;Prime;50mm;No;Yes
+91;49;United Kingdom;England;Male;Professional;1988;Wildlife;Canon;Canon;Sony;Full-Frame;Sony A7R IV;4;Zoom;70-200mm;Yes;Yes
+92;30;Canada;British Columbia;Female;Hobbyist;2014;Travel;Sony;Sony;Nikon;APS-C;Nikon D5600;2;Zoom;18-55mm;No;Yes
+93;45;United States;Florida;Male;Enthusiast;1995;Sports;Nikon;Canon;Canon;Full-Frame;Canon EOS 7D Mark II;3;Zoom;70-200mm;No;Yes
+94;22;France;Île-de-France;Female;Hobbyist;2017;Street;Canon;Canon;Canon;APS-C;Canon EOS 200D;1;Prime;35mm;No;Yes
+95;35;United States;New York;Male;Professional;2003;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A7 III;5;Prime;85mm;No;Yes
+96;40;Italy;Lazio;Male;Enthusiast;1998;Architecture;Sony;Canon;Sony;Full-Frame;Sony A7R II;4;Zoom;16-35mm;No;Yes
+97;50;United States;Texas;Female;Professional;1985;Wedding;Nikon;Canon;Canon;Full-Frame;Canon EOS R;5;Zoom;24-70mm;Yes;No
+98;29;United States;Ohio;Male;Hobbyist;2011;Portrait;Canon;Canon;Sony;APS-C;Sony A6000;1;Prime;50mm;No;No
+99;58;United States;Arizona;Male;Enthusiast;1982;Wildlife;Pentax;Canon;Nikon;Full-Frame;Nikon D850;3;Zoom;100-400mm;Yes;Yes
+100;34;Canada;Alberta;Female;Hobbyist;2007;Travel;Canon;Sony;Canon;APS-C;Canon EOS M50;2;Prime;35mm;No;Yes
+101;45;Germany;Bavaria;Male;Professional;1993;Sports;Canon;Canon;Nikon;Full-Frame;Nikon D6;5;Zoom;70-200mm;Yes;Yes
+102;41;United States;Illinois;Female;Professional;1999;Documentary;Nikon;Canon;Sony;Full-Frame;Sony A7R III;4;Prime;35mm;Yes;Yes
+103;27;United States;Virginia;Male;Hobbyist;2015;Street;Sony;Sony;Fujifilm;APS-C;Fujifilm X-T30;2;Zoom;18-55mm;No;Yes
+104;32;United States;New Jersey;Female;Enthusiast;2008;Portrait;Canon;Canon;Canon;APS-C;Canon EOS 80D;1;Prime;50mm;No;Yes
+105;56;United Kingdom;Scotland;Male;Professional;1983;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A9 II;5;Zoom;85mm;Yes;Yes
+106;42;Canada;Quebec;Male;Enthusiast;1998;Wildlife;Canon;Canon;Nikon;Full-Frame;Nikon Z7 II;3;Zoom;100-400mm;Yes;Yes
+107;36;United States;Washington;Male;Professional;2005;Landscape;Canon;Nikon;Fujifilm;Medium Format;Fujifilm GFX 50R;4;Prime;50mm;Yes;Yes
+108;21;Germany;Hesse;Female;Hobbyist;2017;Street;Sony;Nikon;Canon;APS-C;Canon EOS 250D;1;Prime;35mm;No;Yes
+109;49;United Kingdom;England;Male;Enthusiast;1988;Sports;Nikon;Canon;Nikon;Full-Frame;Nikon D750;2;Zoom;70-200mm;Yes;Yes
+110;31;United States;Massachusetts;Female;Professional;2007;Fashion;Canon;Canon;Sony;Full-Frame;Sony A7R IV;4;Prime;50mm;No;Yes
+111;27;United States;Florida;Male;Enthusiast;2014;Travel;Nikon;Nikon;Nikon;APS-C;Nikon D5600;1;Zoom;18-55mm;No;No
+112;55;Germany;North Rhine-Westphalia;Male;Enthusiast;1987;Architecture;Nikon;Canon;Sony;Full-Frame;Sony A7 II;3;Prime;35mm;Yes;No
+113;39;United States;Colorado;Male;Professional;2000;Portrait;Canon;Nikon;Sony;Full-Frame;Sony A7 III;4;Prime;85mm;Yes;Yes
+114;46;United States;Ohio;Female;Hobbyist;1994;Macro;Nikon;Nikon;Canon;APS-C;Canon EOS 70D;2;Prime;100mm;No;No
+115;30;Canada;Ontario;Male;Hobbyist;2011;Portrait;Canon;Canon;Sony;APS-C;Sony A6000;2;Prime;50mm;No;No
+116;52;France;Provence;Female;Professional;1982;Documentary;Canon;Nikon;Nikon;Full-Frame;Nikon Z6 II;5;Zoom;24-70mm;Yes;Yes
+117;24;United States;Oregon;Male;Hobbyist;2014;Portrait;Nikon;Nikon;Fujifilm;APS-C;Fujifilm X-T4;1;Prime;50mm;No;Yes
+118;37;United States;California;Male;Professional;2001;Landscape;Canon;Nikon;Sony;Full-Frame;Sony A7R III;4;Zoom;16-35mm;Yes;Yes
+119;47;Germany;Saxony;Male;Enthusiast;1990;Street;Pentax;Canon;Fujifilm;APS-C;Fujifilm X100V;2;Prime;23mm;Yes;Yes
+120;43;United States;New York;Female;Professional;1995;Event;Nikon;Canon;Canon;Full-Frame;Canon EOS R5;4;Zoom;24-70mm;No;Yes
+121;33;United States;Texas;Male;Professional;2005;Commercial;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;5;Zoom;24-70mm;Yes;Yes
+122;26;Germany;Bavaria;Female;Hobbyist;2015;Travel;Sony;Sony;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;35mm;No;Yes
+123;59;Canada;British Columbia;Male;Professional;1979;Wedding;Nikon;Nikon;Canon;Full-Frame;Canon EOS R;5;Prime;50mm;Yes;Yes
+124;41;United Kingdom;England;Female;Enthusiast;1998;Wildlife;Canon;Nikon;Sony;Full-Frame;Sony A7 III;3;Zoom;100-400mm;Yes;Yes
+125;35;United States;Washington;Male;Professional;2004;Architecture;Canon;Nikon;Fujifilm;Medium Format;Fujifilm GFX 50S;4;Prime;32-64mm;Yes;Yes
+126;29;United States;Illinois;Male;Hobbyist;2011;Portrait;Canon;Canon;Canon;APS-C;Canon EOS 77D;1;Prime;50mm;No;Yes
+127;33;Australia;New South Wales;Female;Enthusiast;2011;Travel;Sony;Canon;Leica;Full-Frame;Leica SL2;3;Prime;50mm;No;Yes
+128;40;France;Provence;Male;Professional;2002;Wedding;Canon;Nikon;Hasselblad;Medium Format;Hasselblad H6D-50c;4;Prime;80mm;No;Yes
+129;51;United Kingdom;Wales;Male;Enthusiast;1987;Landscape;Nikon;Canon;Nikon;Full-Frame;Nikon D850;3;Zoom;14-24mm;Yes;Yes
+130;23;United States;Texas;Female;Hobbyist;2015;Street;Sony;Sony;Canon;APS-C;Canon EOS M50;1;Prime;35mm;No;No
+131;53;United States;Pennsylvania;Male;Professional;1982;Commercial;Canon;Nikon;Sony;Full-Frame;Sony A7R III;5;Prime;50mm;Yes;Yes
+132;36;Canada;Ontario;Female;Enthusiast;2005;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon D750;3;Zoom;100-400mm;No;No
+133;31;United States;Nevada;Male;Professional;2007;Fashion;Canon;Canon;Sony;Full-Frame;Sony A9 II;4;Prime;85mm;Yes;Yes
+134;27;United Kingdom;England;Male;Hobbyist;2013;Travel;Canon;Canon;Fujifilm;APS-C;Fujifilm X-T4;2;Zoom;18-55mm;No;Yes
+135;38;United States;Oregon;Male;Professional;2000;Landscape;Canon;Nikon;Sony;Full-Frame;Sony A7R III;5;Zoom;16-35mm;Yes;Yes
+136;44;France;Île-de-France;Male;Professional;1992;Portrait;Canon;Canon;Nikon;Full-Frame;Nikon D780;5;Zoom;24-70mm;Yes;Yes
+137;29;United States;Arizona;Male;Hobbyist;2012;Travel;Canon;Canon;Sony;APS-C;Sony A6000;2;Zoom;16-50mm;No;No
+138;34;United States;California;Female;Professional;2005;Wedding;Nikon;Canon;Sony;Full-Frame;Sony A7R IV;4;Prime;50mm;No;Yes
+139;55;Germany;Berlin;Male;Professional;1980;Documentary;Nikon;Canon;Nikon;Full-Frame;Nikon Z6 II;5;Prime;35mm;Yes;Yes
+140;32;United States;Georgia;Male;Hobbyist;2008;Portrait;Sony;Sony;Canon;APS-C;Canon EOS 90D;2;Prime;50mm;No;No
+141;43;United States;Michigan;Male;Professional;1993;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A7R III;4;Zoom;24-70mm;Yes;Yes
+142;24;Germany;Hesse;Female;Hobbyist;2016;Travel;Canon;Canon;Fujifilm;APS-C;Fujifilm X-E4;1;Prime;35mm;No;Yes
+143;57;United States;Washington;Male;Professional;1983;Commercial;Canon;Nikon;Canon;Full-Frame;Canon EOS R5;5;Zoom;24-70mm;Yes;Yes
+144;28;Canada;Alberta;Female;Hobbyist;2013;Portrait;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;50mm;No;Yes
+145;41;United Kingdom;England;Male;Enthusiast;1997;Street;Pentax;Canon;Fujifilm;APS-C;Fujifilm X-T4;3;Prime;35mm;Yes;Yes
+146;33;United States;North Carolina;Female;Professional;2005;Wildlife;Canon;Canon;Nikon;Full-Frame;Nikon D850;4;Zoom;100-400mm;No;Yes
+147;27;United States;Nevada;Male;Hobbyist;2010;Landscape;Sony;Sony;Canon;APS-C;Canon EOS M6;2;Zoom;16-35mm;No;Yes
+148;61;United States;Pennsylvania;Female;Professional;1979;Documentary;Nikon;Canon;Nikon;Full-Frame;Nikon Z6 II;5;Prime;35mm;Yes;Yes
+149;39;United States;Illinois;Male;Professional;1997;Fashion;Canon;Canon;Sony;Full-Frame;Sony A7R IV;4;Prime;50mm;No;Yes
+150;24;United States;California;Female;Hobbyist;2014;Street;Canon;Canon;Canon;APS-C;Canon EOS M50;1;Prime;35mm;No;Yes
+151;47;United States;New York;Male;Enthusiast;1992;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon D750;3;Zoom;100-400mm;Yes;Yes
+152;37;Canada;Ontario;Female;Professional;2002;Fashion;Canon;Canon;Sony;Full-Frame;Sony A7R III;4;Prime;50mm;No;No
+153;30;United States;Florida;Male;Hobbyist;2012;Portrait;Canon;Canon;Sony;APS-C;Sony A6000;2;Prime;50mm;No;No
+154;58;United States;New York;Male;Enthusiast;1982;Street;Nikon;Canon;Nikon;Full-Frame;Nikon Z6 II;3;Prime;35mm;Yes;Yes
+155;31;Germany;Saxony;Male;Hobbyist;2013;Portrait;Canon;Canon;Fujifilm;APS-C;Fujifilm X-E4;2;Prime;50mm;No;Yes
+156;35;United States;Arizona;Male;Professional;2001;Landscape;Canon;Canon;Sony;Full-Frame;Sony A7R IV;4;Zoom;16-35mm;Yes;Yes
+157;29;United States;Colorado;Female;Hobbyist;2010;Travel;Nikon;Nikon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;35mm;No;Yes
+158;55;Germany;Hesse;Male;Professional;1984;Documentary;Canon;Canon;Nikon;Full-Frame;Nikon Z7 II;5;Zoom;24-70mm;Yes;Yes
+159;41;United States;Texas;Female;Enthusiast;1998;Street;Nikon;Canon;Fujifilm;APS-C;Fujifilm X100V;2;Prime;23mm;Yes;Yes
+160;36;United States;Virginia;Male;Professional;2004;Fashion;Canon;Canon;Sony;Full-Frame;Sony A9 II;4;Prime;85mm;No;Yes
+161;34;Australia;New South Wales;Male;Professional;2006;Wildlife;Canon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M1X;4;Zoom;100-400mm;Yes;Yes
+162;28;Germany;Hamburg;Female;Hobbyist;2014;Portrait;Canon;Canon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;50mm;No;Yes
+163;47;Netherlands;North Holland;Male;Enthusiast;1992;Landscape;Nikon;Canon;Panasonic;Micro 4/3;Panasonic Lumix GH5;3;Zoom;12-35mm;Yes;Yes
+164;41;United Kingdom;England;Female;Professional;2001;Documentary;Canon;Canon;Sony;Full-Frame;Sony A7 III;4;Prime;35mm;Yes;Yes
+165;29;Japan;Tokyo;Male;Hobbyist;2010;Street;Sony;Sony;Olympus;Micro 4/3;Olympus OM-D E-M10 Mark III;2;Prime;25mm;No;Yes
+166;54;Sweden;Stockholm;Male;Professional;1989;Architecture;Nikon;Canon;Nikon;Full-Frame;Nikon D850;5;Zoom;24-70mm;Yes;Yes
+167;37;Canada;Ontario;Female;Enthusiast;2006;Travel;Canon;Sony;Panasonic;Micro 4/3;Panasonic Lumix G9;3;Zoom;12-60mm;No;Yes
+168;23;Spain;Catalonia;Male;Hobbyist;2017;Portrait;Nikon;Nikon;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;35mm;No;No
+169;61;United Kingdom;Scotland;Male;Professional;1976;Wildlife;Canon;Nikon;Canon;Full-Frame;Canon EOS 1D X Mark III;6;Prime;500mm;Yes;Yes
+170;32;Italy;Lombardy;Male;Hobbyist;2010;Street;Sony;Canon;Fujifilm;APS-C;Fujifilm X100F;1;Prime;23mm;No;Yes
+171;38;Australia;Victoria;Male;Professional;2002;Sports;Canon;Nikon;Sony;Full-Frame;Sony A9 II;4;Zoom;70-200mm;Yes;Yes
+172;48;France;Île-de-France;Female;Enthusiast;1995;Architecture;Nikon;Canon;Nikon;Full-Frame;Nikon Z6 II;3;Zoom;14-24mm;Yes;Yes
+173;34;United States;California;Male;Professional;2004;Fashion;Nikon;Canon;Sony;Full-Frame;Sony A7R IV;4;Prime;85mm;No;Yes
+174;30;Germany;Bavaria;Female;Hobbyist;2014;Portrait;Canon;Canon;Olympus;Micro 4/3;Olympus PEN-F;2;Prime;45mm;No;No
+175;29;Poland;Masovian Voivodeship;Male;Enthusiast;2012;Landscape;Pentax;Canon;Fujifilm;APS-C;Fujifilm X-T3;3;Zoom;10-24mm;No;Yes
+176;41;Singapore;Central Region;Female;Professional;1998;Documentary;Nikon;Canon;Sony;Full-Frame;Sony A7 III;4;Prime;35mm;Yes;Yes
+177;46;United Kingdom;England;Male;Enthusiast;1993;Street;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T30;3;Prime;23mm;Yes;Yes
+178;31;Czech Republic;Prague;Male;Hobbyist;2008;Portrait;Canon;Sony;Canon;APS-C;Canon EOS 77D;1;Prime;50mm;No;Yes
+179;58;Italy;Veneto;Male;Professional;1981;Wedding;Nikon;Canon;Canon;Full-Frame;Canon EOS 5D Mark IV;5;Zoom;24-70mm;Yes;Yes
+180;33;United Kingdom;Northern Ireland;Female;Hobbyist;2010;Travel;Canon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M1 Mark III;2;Zoom;12-40mm;No;Yes
+181;53;Australia;Queensland;Male;Professional;1985;Sports;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;5;Zoom;70-200mm;Yes;Yes
+182;22;Denmark;Capital Region;Female;Hobbyist;2018;Portrait;Nikon;Nikon;Canon;APS-C;Canon EOS M50;1;Prime;50mm;No;No
+183;43;Belgium;Flanders;Male;Enthusiast;1992;Architecture;Pentax;Nikon;Fujifilm;APS-C;Fujifilm X-E4;2;Prime;23mm;Yes;Yes
+184;45;Canada;Quebec;Female;Professional;1994;Commercial;Canon;Canon;Nikon;Full-Frame;Nikon D850;5;Prime;50mm;Yes;Yes
+185;28;Finland;Uusimaa;Male;Hobbyist;2013;Street;Nikon;Nikon;Fujifilm;APS-C;Fujifilm X-T200;2;Prime;35mm;No;No
+186;36;New Zealand;Auckland;Female;Enthusiast;2006;Travel;Canon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M5 Mark III;2;Zoom;14-42mm;No;Yes
+187;52;France;Provence;Male;Professional;1980;Documentary;Nikon;Nikon;Sony;Full-Frame;Sony A7 III;4;Prime;35mm;Yes;Yes
+188;49;Norway;Oslo;Female;Professional;1990;Fashion;Canon;Canon;Sony;Full-Frame;Sony A7R III;5;Prime;50mm;Yes;Yes
+189;29;Germany;North Rhine-Westphalia;Male;Hobbyist;2012;Macro;Canon;Canon;Fujifilm;APS-C;Fujifilm X-T30;1;Prime;60mm;No;Yes
+190;41;Netherlands;South Holland;Female;Enthusiast;1999;Wildlife;Nikon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M1 Mark II;3;Zoom;100-400mm;Yes;Yes
+191;35;Switzerland;Zurich;Male;Professional;2003;Wedding;Nikon;Canon;Sony;Full-Frame;Sony A9 II;4;Zoom;24-70mm;Yes;Yes
+192;38;United Kingdom;England;Female;Hobbyist;2004;Travel;Pentax;Nikon;Fujifilm;APS-C;Fujifilm X-T4;2;Zoom;18-55mm;No;Yes
+193;27;Poland;Greater Poland;Male;Hobbyist;2014;Landscape;Canon;Canon;Fujifilm;APS-C;Fujifilm X-T3;2;Zoom;10-24mm;No;Yes
+194;40;France;Normandy;Female;Professional;2001;Portrait;Nikon;Canon;Sony;Full-Frame;Sony A7 III;4;Prime;85mm;Yes;Yes
+195;33;Singapore;Central Region;Male;Hobbyist;2010;Street;Canon;Canon;Fujifilm;APS-C;Fujifilm X-T4;2;Prime;23mm;No;Yes
+196;30;Ireland;Leinster;Female;Enthusiast;2012;Portrait;Sony;Sony;Canon;APS-C;Canon EOS 80D;2;Prime;50mm;No;Yes
+197;56;Sweden;Västra Götaland;Male;Professional;1983;Documentary;Nikon;Canon;Nikon;Full-Frame;Nikon Z6 II;5;Zoom;24-70mm;Yes;Yes
+198;23;Norway;Vestland;Female;Hobbyist;2018;Street;Sony;Sony;Canon;APS-C;Canon EOS M50;1;Prime;35mm;No;No
+199;39;United Kingdom;Wales;Male;Professional;1998;Wildlife;Canon;Canon;Nikon;Full-Frame;Nikon D850;5;Prime;500mm;Yes;Yes
+200;51;Germany;Rhineland-Palatinate;Male;Enthusiast;1988;Landscape;Nikon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M1X;3;Zoom;12-100mm;Yes;Yes
+201;46;United Kingdom;England;Male;Professional;1995;Fashion;Nikon;Canon;Sony;Full-Frame;Sony A7R IV;5;Prime;50mm;Yes;Yes
+202;29;Portugal;Lisbon;Female;Hobbyist;2013;Street;Canon;Canon;Fujifilm;APS-C;Fujifilm X-E4;1;Prime;23mm;No;Yes
+203;32;New Zealand;Wellington;Male;Enthusiast;2007;Landscape;Nikon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M5 Mark II;2;Zoom;12-40mm;Yes;Yes
+204;44;Germany;Hesse;Female;Professional;1995;Wedding;Canon;Canon;Nikon;Full-Frame;Nikon Z7;5;Prime;85mm;Yes;Yes
+205;26;Spain;Andalusia;Male;Hobbyist;2015;Travel;Sony;Sony;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;35mm;No;Yes
+206;50;France;Auvergne-Rhône-Alpes;Male;Professional;1987;Commercial;Nikon;Canon;Sony;Full-Frame;Sony A7 III;5;Zoom;24-70mm;Yes;Yes
+207;36;Netherlands;Utrecht;Male;Enthusiast;2004;Wildlife;Canon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M1 Mark III;3;Zoom;100-400mm;Yes;No
+208;38;Belgium;Brussels;Female;Professional;2003;Portrait;Canon;Canon;Sony;Full-Frame;Sony A7R IV;4;Prime;85mm;Yes;Yes
+209;31;Finland;Pirkanmaa;Male;Hobbyist;2007;Street;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T4;2;Prime;23mm;No;Yes
+210;40;Switzerland;Geneva;Male;Professional;2000;Wedding;Canon;Nikon;Canon;Full-Frame;Canon EOS R5;4;Zoom;24-70mm;Yes;Yes
+211;44;Denmark;Central Denmark;Male;Enthusiast;1993;Architecture;Pentax;Nikon;Fujifilm;APS-C;Fujifilm X-T3;2;Prime;35mm;Yes;Yes
+212;25;Australia;Western Australia;Female;Hobbyist;2015;Street;Nikon;Nikon;Canon;APS-C;Canon EOS M50;1;Prime;35mm;No;Yes
+213;52;United States;New York;Male;Professional;1985;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A7 III;4;Prime;50mm;Yes;Yes
+214;30;South Korea;Seoul;Female;Hobbyist;2013;Travel;Nikon;Nikon;Fujifilm;APS-C;Fujifilm X-T20;2;Prime;35mm;No;Yes
+215;59;United Kingdom;England;Male;Enthusiast;1982;Wildlife;Pentax;Canon;Nikon;Full-Frame;Nikon D500;3;Zoom;200-500mm;Yes;Yes
+216;35;Japan;Osaka;Female;Professional;2003;Fashion;Canon;Canon;Sony;Full-Frame;Sony A9 II;4;Prime;85mm;Yes;Yes
+217;32;Norway;Oslo;Male;Hobbyist;2009;Landscape;Nikon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M1 Mark II;2;Zoom;12-40mm;Yes;Yes
+218;27;Finland;Ostrobothnia;Female;Hobbyist;2015;Portrait;Sony;Sony;Canon;APS-C;Canon EOS 80D;2;Prime;50mm;No;No
+219;57;Germany;Hesse;Male;Professional;1983;Landscape;Nikon;Canon;Hasselblad;Medium Format;Hasselblad X1D II;4;Prime;38mm;Yes;Yes
+220;35;United States;Florida;Female;Enthusiast;2011;Travel;Fujifilm;Nikon;Leica;Full-Frame;Leica M10;3;Prime;35mm;No;Yes
+221;48;United Kingdom;Wales;Male;Professional;1994;Fashion;Canon;Nikon;Hasselblad;Medium Format;Hasselblad H6D-100c;5;Prime;100mm;Yes;Yes
+222;49;Sweden;Skåne;Male;Professional;1990;Commercial;Canon;Nikon;Nikon;Full-Frame;Nikon Z7;5;Prime;50mm;Yes;Yes
+223;43;United Kingdom;Scotland;Male;Enthusiast;1994;Travel;Canon;Canon;Fujifilm;APS-C;Fujifilm X100V;1;Prime;23mm;No;Yes
+224;38;Australia;Victoria;Male;Professional;2001;Landscape;Pentax;Canon;Olympus;Micro 4/3;Olympus OM-D E-M1X;4;Zoom;12-40mm;Yes;No
+225;26;Germany;Lower Saxony;Female;Hobbyist;2015;Travel;Canon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M10 Mark III;1;Prime;25mm;No;Yes
+226;45;Netherlands;Gelderland;Male;Enthusiast;1991;Architecture;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T30;3;Prime;23mm;Yes;Yes
+227;21;Ireland;Munster;Male;Hobbyist;2018;Portrait;Canon;Canon;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;35mm;No;No
+228;56;Austria;Vienna;Male;Professional;1982;Wedding;Nikon;Canon;Nikon;Full-Frame;Nikon D850;5;Zoom;24-70mm;Yes;Yes
+229;38;Germany;Thuringia;Female;Professional;2001;Portrait;Nikon;Canon;Sony;Full-Frame;Sony A7R IV;4;Prime;50mm;Yes;Yes
+230;33;Poland;Lesser Poland;Male;Enthusiast;2008;Street;Sony;Sony;Fujifilm;APS-C;Fujifilm X-T4;2;Prime;23mm;No;Yes
+231;48;Japan;Tokyo;Female;Professional;1989;Fashion;Nikon;Canon;Sony;Full-Frame;Sony A9 II;5;Prime;85mm;Yes;Yes
+232;42;United Kingdom;England;Male;Enthusiast;1997;Sports;Pentax;Canon;Nikon;Full-Frame;Nikon D500;3;Zoom;70-200mm;Yes;Yes
+233;24;Portugal;Lisbon;Female;Hobbyist;2016;Portrait;Canon;Canon;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;35mm;No;Yes
+234;32;Canada;Ontario;Male;Professional;2007;Wedding;Canon;Canon;Nikon;Full-Frame;Nikon Z6 II;5;Prime;50mm;Yes;Yes
+235;35;Australia;Victoria;Male;Professional;2007;Wildlife;Canon;Nikon;Sony;Full-Frame;Sony A9 II;4;Zoom;70-200mm;Yes;Yes
+236;27;Germany;Baden-Württemberg;Female;Hobbyist;2015;Portrait;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T4;1;Prime;50mm;No;Yes
+237;44;United Kingdom;England;Male;Enthusiast;1994;Landscape;Nikon;Canon;Panasonic;Micro 4/3;Panasonic Lumix G9;3;Zoom;12-60mm;Yes;No
+238;42;Italy;Tuscany;Female;Professional;2001;Architecture;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;4;Prime;24-70mm;Yes;Yes
+239;29;Poland;Lesser Poland;Male;Hobbyist;2014;Street;Sony;Canon;Olympus;Micro 4/3;Olympus OM-D E-M10 Mark III;2;Prime;25mm;No;Yes
+240;50;Sweden;Skåne;Male;Professional;1985;Architecture;Nikon;Canon;Nikon;Full-Frame;Nikon D850;5;Zoom;24-70mm;Yes;Yes
+241;39;Canada;British Columbia;Female;Enthusiast;2003;Travel;Canon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M1X;3;Zoom;12-40mm;No;Yes
+242;26;Spain;Madrid;Male;Hobbyist;2016;Portrait;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;35mm;No;Yes
+243;60;United Kingdom;Wales;Male;Professional;1980;Wildlife;Canon;Sony;Canon;Full-Frame;Canon EOS R5;6;Prime;500mm;Yes;Yes
+244;31;Italy;Lazio;Female;Hobbyist;2009;Street;Sony;Canon;Fujifilm;APS-C;Fujifilm X100V;1;Prime;23mm;No;Yes
+245;37;Australia;Queensland;Male;Professional;2003;Sports;Canon;Nikon;Sony;Full-Frame;Sony A9 II;4;Zoom;70-200mm;Yes;Yes
+246;50;France;Île-de-France;Female;Enthusiast;1992;Architecture;Nikon;Canon;Nikon;Full-Frame;Nikon Z6 II;3;Zoom;14-24mm;Yes;Yes
+247;35;United States;Texas;Male;Professional;2005;Fashion;Nikon;Canon;Sony;Full-Frame;Sony A7R IV;4;Prime;85mm;No;Yes
+248;30;Germany;Bavaria;Male;Hobbyist;2015;Portrait;Canon;Nikon;Olympus;Micro 4/3;Olympus PEN-F;2;Prime;45mm;No;Yes
+249;29;Poland;Greater Poland;Male;Enthusiast;2012;Landscape;Pentax;Canon;Fujifilm;APS-C;Fujifilm X-T3;3;Zoom;10-24mm;No;Yes
+250;42;Singapore;Central Region;Male;Professional;1999;Documentary;Nikon;Canon;Sony;Full-Frame;Sony A7 III;4;Prime;35mm;Yes;Yes
+251;46;United Kingdom;England;Male;Enthusiast;1995;Street;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T30;3;Prime;23mm;Yes;Yes
+252;31;Czech Republic;Prague;Female;Hobbyist;2009;Portrait;Canon;Nikon;Canon;APS-C;Canon EOS 77D;1;Prime;50mm;No;Yes
+253;58;Italy;Veneto;Male;Professional;1980;Wedding;Nikon;Canon;Canon;Full-Frame;Canon EOS 5D Mark IV;5;Zoom;24-70mm;Yes;Yes
+254;33;United Kingdom;Northern Ireland;Female;Hobbyist;2010;Travel;Canon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M1 Mark III;2;Zoom;12-40mm;No;Yes
+255;37;United States;Illinois;Female;Enthusiast;2010;Landscape;Fujifilm;Canon;Leica;Full-Frame;Leica M10-R;2;Prime;35mm;No;Yes
+256;49;Germany;Bavaria;Male;Professional;1990;Fashion;Nikon;Sony;Hasselblad;Medium Format;Hasselblad H6D-100c;5;Prime;80mm;Yes;Yes
+257;26;United Kingdom;Scotland;Female;Hobbyist;2018;Street;Canon;Nikon;Leica;APS-C;Leica CL;2;Prime;35mm;No;Yes
+258;52;Australia;Queensland;Male;Professional;1985;Sports;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;5;Zoom;70-200mm;Yes;Yes
+259;23;Denmark;Capital Region;Female;Hobbyist;2017;Portrait;Nikon;Canon;Canon;APS-C;Canon EOS M50;1;Prime;50mm;No;Yes
+260;43;Belgium;Flanders;Male;Enthusiast;1994;Architecture;Pentax;Canon;Fujifilm;APS-C;Fujifilm X-E4;2;Prime;23mm;Yes;Yes
+261;45;Canada;Quebec;Female;Professional;1995;Commercial;Canon;Nikon;Nikon;Full-Frame;Nikon D850;5;Prime;50mm;Yes;Yes
+262;29;Finland;Uusimaa;Male;Hobbyist;2014;Street;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T200;2;Prime;35mm;No;Yes
+263;36;New Zealand;Auckland;Female;Enthusiast;2006;Travel;Canon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M5 Mark III;2;Zoom;14-42mm;No;Yes
+264;52;France;Provence;Male;Professional;1980;Documentary;Nikon;Canon;Sony;Full-Frame;Sony A7 III;4;Prime;35mm;Yes;Yes
+265;49;Norway;Oslo;Female;Professional;1991;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A7R III;5;Prime;50mm;Yes;Yes
+266;30;Germany;North Rhine-Westphalia;Male;Hobbyist;2012;Macro;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T30;1;Prime;60mm;No;Yes
+267;41;Netherlands;South Holland;Female;Enthusiast;2000;Wildlife;Nikon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M1 Mark II;3;Zoom;100-400mm;Yes;Yes
+268;27;Poland;Masovian Voivodeship;Male;Hobbyist;2015;Landscape;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T3;2;Zoom;10-24mm;No;Yes
+269;41;France;Normandy;Female;Professional;2001;Portrait;Nikon;Canon;Sony;Full-Frame;Sony A7 III;4;Prime;85mm;Yes;Yes
+270;33;Singapore;Central Region;Male;Hobbyist;2011;Street;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T4;2;Prime;23mm;No;Yes
+271;30;Ireland;Leinster;Male;Enthusiast;2012;Portrait;Sony;Canon;Canon;APS-C;Canon EOS 80D;2;Prime;50mm;No;Yes
+272;22;Norway;Vestland;Female;Hobbyist;2018;Street;Sony;Canon;Canon;APS-C;Canon EOS M50;1;Prime;35mm;No;Yes
+273;29;Portugal;Lisbon;Female;Hobbyist;2013;Street;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-E4;1;Prime;23mm;No;Yes
+274;32;New Zealand;Wellington;Male;Enthusiast;2008;Landscape;Nikon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M5 Mark II;2;Zoom;12-40mm;Yes;Yes
+275;44;Germany;Hesse;Female;Professional;1995;Wedding;Canon;Nikon;Nikon;Full-Frame;Nikon Z7;5;Prime;85mm;Yes;Yes
+276;26;Spain;Andalusia;Male;Hobbyist;2015;Travel;Sony;Nikon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;35mm;No;Yes
+277;50;France;Auvergne-Rhône-Alpes;Female;Professional;1988;Commercial;Nikon;Canon;Sony;Full-Frame;Sony A7 III;5;Zoom;24-70mm;Yes;Yes
+278;38;Belgium;Brussels;Male;Professional;2003;Portrait;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;4;Prime;85mm;Yes;Yes
+279;31;Finland;Pirkanmaa;Male;Hobbyist;2009;Street;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T4;2;Prime;23mm;No;Yes
+280;25;Australia;Western Australia;Female;Hobbyist;2015;Street;Nikon;Canon;Canon;APS-C;Canon EOS M50;1;Prime;35mm;No;Yes
+281;30;South Korea;Seoul;Female;Hobbyist;2013;Travel;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T20;2;Prime;35mm;No;Yes
+282;35;Japan;Osaka;Female;Professional;2003;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A9 II;4;Prime;85mm;Yes;Yes
+283;32;Norway;Oslo;Male;Hobbyist;2010;Landscape;Nikon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M1 Mark II;2;Zoom;12-40mm;Yes;Yes
+284;27;Finland;Ostrobothnia;Female;Hobbyist;2015;Portrait;Sony;Canon;Canon;APS-C;Canon EOS 80D;2;Prime;50mm;No;Yes
+285;43;United Kingdom;Scotland;Female;Enthusiast;1994;Travel;Canon;Nikon;Fujifilm;APS-C;Fujifilm X100V;1;Prime;23mm;No;Yes
+286;38;Australia;Victoria;Male;Professional;2001;Landscape;Pentax;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M1X;4;Zoom;12-40mm;Yes;Yes
+287;34;United Kingdom;England;Female;Enthusiast;2013;Street;Fujifilm;Sony;Leica;Full-Frame;Leica Q3;1;Prime;28mm;No;Yes
+288;59;Australia;Western Australia;Male;Professional;1980;Commercial;Nikon;Canon;Hasselblad;Medium Format;Hasselblad H6D-100c;5;Prime;80mm;Yes;Yes
+289;28;Sweden;Stockholm;Female;Enthusiast;2015;Portrait;Sony;Canon;Leica;Full-Frame;Leica SL2-S;2;Prime;50mm;No;Yes
+290;26;Germany;Lower Saxony;Female;Hobbyist;2015;Travel;Canon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M10 Mark III;1;Prime;25mm;No;Yes
+291;21;Ireland;Munster;Male;Hobbyist;2018;Portrait;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;35mm;No;Yes
+292;33;Poland;Lesser Poland;Male;Enthusiast;2008;Street;Sony;Nikon;Fujifilm;APS-C;Fujifilm X-T4;2;Prime;23mm;No;Yes
+293;42;United Kingdom;England;Male;Enthusiast;1997;Sports;Pentax;Nikon;Nikon;Full-Frame;Nikon D500;3;Zoom;70-200mm;Yes;Yes
+294;24;Portugal;Lisbon;Female;Hobbyist;2016;Portrait;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;35mm;No;Yes
+295;32;Canada;Ontario;Male;Professional;2007;Wedding;Canon;Nikon;Nikon;Full-Frame;Nikon Z6 II;5;Prime;50mm;Yes;Yes
+296;34;United States;California;Male;Professional;2005;Wedding;Nikon;Canon;Sony;Full-Frame;Sony A7 III;4;Zoom;50mm;Yes;Yes
+297;28;United Kingdom;England;Female;Hobbyist;2014;Portrait;Canon;Nikon;Canon;APS-C;Canon EOS 90D;1;Prime;50mm;No;Yes
+298;49;Germany;Bavaria;Male;Enthusiast;1988;Landscape;Nikon;Canon;Panasonic;Micro 4/3;Panasonic Lumix G9;3;Zoom;12-60mm;Yes;Yes
+299;42;France;Île-de-France;Female;Professional;2001;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;4;Prime;85mm;Yes;Yes
+300;31;Poland;Masovian;Male;Hobbyist;2009;Street;Sony;Canon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;35mm;No;Yes
+301;55;Sweden;Skåne;Male;Professional;1985;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon D850;5;Prime;500mm;Yes;Yes
+302;36;Canada;Ontario;Female;Enthusiast;2005;Travel;Canon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M1X;2;Zoom;14-42mm;No;Yes
+303;23;Spain;Catalonia;Male;Hobbyist;2017;Portrait;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;50mm;No;Yes
+304;31;Canada;Quebec;Female;Hobbyist;2011;Travel;Fujifilm;Canon;Leica;APS-C;Leica CL;2;Prime;35mm;No;Yes
+305;47;United States;Texas;Male;Professional;1998;Architecture;Canon;Nikon;Hasselblad;Medium Format;Hasselblad X1D II;4;Zoom;35-75mm;Yes;Yes
+306;34;Germany;Berlin;Female;Hobbyist;2009;Street;Sony;Canon;Fujifilm;APS-C;Fujifilm X100F;1;Prime;23mm;No;Yes
+307;38;Italy;Tuscany;Male;Professional;2004;Sports;Canon;Nikon;Sony;Full-Frame;Sony A9 II;4;Zoom;70-200mm;Yes;Yes
+308;49;France;Provence-Alpes-Côte d'Azur;Male;Enthusiast;1992;Architecture;Nikon;Canon;Nikon;Full-Frame;Nikon Z6 II;3;Zoom;14-24mm;Yes;Yes
+309;35;United States;New York;Male;Professional;2004;Fashion;Nikon;Canon;Sony;Full-Frame;Sony A7R III;4;Prime;50mm;No;Yes
+310;27;Germany;Hesse;Female;Hobbyist;2014;Portrait;Canon;Nikon;Olympus;Micro 4/3;Olympus PEN-F;2;Prime;45mm;No;Yes
+311;29;Netherlands;North Holland;Male;Enthusiast;2012;Landscape;Pentax;Canon;Fujifilm;APS-C;Fujifilm X-T3;3;Zoom;10-24mm;No;Yes
+312;31;Czech Republic;Prague;Female;Hobbyist;2008;Portrait;Canon;Nikon;Canon;APS-C;Canon EOS 77D;1;Prime;50mm;No;Yes
+313;24;Denmark;Capital Region;Female;Hobbyist;2016;Portrait;Nikon;Canon;Canon;APS-C;Canon EOS M50;1;Prime;50mm;No;Yes
+314;45;Canada;Quebec;Female;Professional;1994;Commercial;Canon;Nikon;Nikon;Full-Frame;Nikon D850;5;Prime;50mm;Yes;Yes
+315;42;United States;Georgia;Male;Professional;1999;Documentary;Canon;Sony;Hasselblad;Medium Format;Hasselblad H6D-50c;4;Zoom;30-90mm;Yes;Yes
+316;36;Germany;Saarland;Female;Enthusiast;2009;Travel;Nikon;Canon;Leica;Full-Frame;Leica M10-R;3;Prime;35mm;No;Yes
+317;30;United Kingdom;England;Male;Professional;2011;Wedding;Canon;Nikon;Hasselblad;Medium Format;Hasselblad X1D II;4;Prime;90mm;No;Yes
+318;29;Finland;Uusimaa;Male;Hobbyist;2013;Street;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T200;2;Prime;35mm;No;Yes
+319;31;Germany;Hamburg;Male;Hobbyist;2011;Macro;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T30;1;Prime;60mm;No;Yes
+320;38;United Kingdom;Wales;Female;Hobbyist;2004;Travel;Pentax;Nikon;Fujifilm;APS-C;Fujifilm X-T4;2;Zoom;18-55mm;No;Yes
+321;27;Poland;Greater Poland;Male;Hobbyist;2015;Landscape;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T3;2;Zoom;10-24mm;No;Yes
+322;39;United Kingdom;Scotland;Male;Professional;1998;Wildlife;Canon;Canon;Nikon;Full-Frame;Nikon D850;5;Prime;500mm;Yes;Yes
+323;32;Finland;Pirkanmaa;Male;Hobbyist;2009;Street;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T4;2;Prime;23mm;No;Yes
+324;35;United States;California;Male;Professional;2006;Wedding;Canon;Nikon;Sony;Full-Frame;Sony A7 III;4;Zoom;50mm;Yes;Yes
+325;29;United Kingdom;England;Female;Hobbyist;2013;Portrait;Canon;Nikon;Canon;APS-C;Canon EOS 90D;1;Prime;50mm;No;Yes
+326;45;Germany;Bavaria;Male;Enthusiast;1995;Landscape;Nikon;Canon;Panasonic;Micro 4/3;Panasonic Lumix G9;3;Zoom;12-60mm;Yes;Yes
+327;41;France;Île-de-France;Female;Professional;2001;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;4;Prime;85mm;Yes;Yes
+328;26;Poland;Lesser Poland;Male;Hobbyist;2015;Street;Sony;Canon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;35mm;No;Yes
+329;57;Sweden;Stockholm;Male;Professional;1984;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon D850;5;Prime;500mm;Yes;Yes
+330;36;Canada;Ontario;Female;Enthusiast;2006;Travel;Canon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M1X;2;Zoom;14-42mm;No;Yes
+331;24;Spain;Catalonia;Male;Hobbyist;2016;Portrait;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;50mm;No;Yes
+332;60;United Kingdom;Scotland;Male;Professional;1980;Wildlife;Canon;Nikon;Canon;Full-Frame;Canon EOS 1D X Mark III;6;Prime;500mm;Yes;Yes
+333;32;Germany;Berlin;Female;Hobbyist;2009;Street;Sony;Canon;Fujifilm;APS-C;Fujifilm X100F;1;Prime;23mm;No;Yes
+334;48;France;Provence;Female;Enthusiast;1994;Architecture;Nikon;Canon;Nikon;Full-Frame;Nikon Z6 II;3;Zoom;14-24mm;Yes;Yes
+335;34;United States;New York;Male;Professional;2005;Fashion;Nikon;Canon;Sony;Full-Frame;Sony A7R III;4;Prime;50mm;No;Yes
+336;30;Germany;Hesse;Female;Hobbyist;2013;Portrait;Canon;Nikon;Olympus;Micro 4/3;Olympus PEN-F;2;Prime;45mm;No;Yes
+337;29;Netherlands;South Holland;Male;Enthusiast;2012;Landscape;Pentax;Canon;Fujifilm;APS-C;Fujifilm X-T3;3;Zoom;10-24mm;No;Yes
+338;41;Singapore;Central Region;Female;Professional;1999;Documentary;Nikon;Canon;Sony;Full-Frame;Sony A7 III;4;Prime;35mm;Yes;Yes
+339;33;Australia;Queensland;Male;Enthusiast;2010;Travel;Nikon;Canon;Leica;Full-Frame;Leica M10-P;3;Prime;35mm;No;Yes
+340;50;Germany;Lower Saxony;Female;Professional;1989;Documentary;Canon;Nikon;Hasselblad;Medium Format;Hasselblad X1D II;4;Prime;50mm;Yes;Yes
+341;32;Czech Republic;Prague;Female;Hobbyist;2008;Portrait;Canon;Nikon;Canon;APS-C;Canon EOS 77D;1;Prime;50mm;No;Yes
+342;27;United Kingdom;Wales;Male;Enthusiast;2016;Landscape;Canon;Sony;Leica;Full-Frame;Leica SL2;3;Prime;24mm;No;Yes
+343;58;United States;Virginia;Female;Professional;1984;Fashion;Canon;Nikon;Hasselblad;Medium Format;Hasselblad H6D-100c;5;Prime;150mm;Yes;Yes
+344;24;Denmark;Capital Region;Female;Hobbyist;2017;Portrait;Nikon;Canon;Canon;APS-C;Canon EOS M50;1;Prime;50mm;No;Yes
+345;43;Belgium;Flanders;Male;Enthusiast;1992;Architecture;Pentax;Canon;Fujifilm;APS-C;Fujifilm X-E4;2;Prime;23mm;Yes;Yes
+346;36;New Zealand;Auckland;Female;Enthusiast;2007;Travel;Canon;Nikon;Leica;Full-Frame;Q2;1;Prime;28mm;No;Yes
+347;28;Germany;North Rhine-Westphalia;Male;Hobbyist;2012;Macro;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T30;1;Prime;60mm;No;Yes
+348;41;Netherlands;North Brabant;Female;Enthusiast;1999;Wildlife;Nikon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M1 Mark II;3;Zoom;100-400mm;Yes;Yes
+349;23;Norway;Vestland;Male;Hobbyist;2018;Street;Sony;Canon;Canon;APS-C;Canon EOS M50;1;Prime;35mm;No;Yes
+350;42;Germany;Berlin;Female;Professional;2002;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;4;Prime;85mm;Yes;Yes
+351;29;United States;New York;Male;Hobbyist;2014;Portrait;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;50mm;No;Yes
+352;34;Canada;British Columbia;Female;Enthusiast;2006;Travel;Nikon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M5 Mark III;2;Zoom;12-40mm;No;Yes
+353;31;United Kingdom;England;Male;Professional;2009;Sports;Canon;Nikon;Sony;Full-Frame;Sony A9 II;4;Zoom;70-200mm;Yes;Yes
+354;27;Finland;Uusimaa;Female;Hobbyist;2016;Portrait;Sony;Canon;Canon;APS-C;Canon EOS 80D;2;Prime;50mm;No;Yes
+355;58;France;Île-de-France;Male;Professional;1982;Wildlife;Canon;Nikon;Canon;Full-Frame;Canon EOS 1D X Mark III;5;Zoom;200-400mm;Yes;Yes
+356;36;Australia;New South Wales;Female;Enthusiast;2004;Travel;Canon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M1X;3;Zoom;14-42mm;No;Yes
+357;32;Germany;Bavaria;Male;Hobbyist;2010;Street;Pentax;Canon;Fujifilm;APS-C;Fujifilm X-T3;1;Prime;23mm;No;Yes
+358;46;United Kingdom;Scotland;Male;Professional;1996;Wedding;Nikon;Canon;Sony;Full-Frame;Sony A7 III;5;Zoom;24-70mm;Yes;Yes
+359;30;Japan;Tokyo;Male;Hobbyist;2013;Street;Canon;Nikon;Fujifilm;APS-C;Fujifilm X100V;1;Prime;35mm;No;Yes
+360;40;Italy;Lombardy;Female;Professional;1999;Architecture;Canon;Nikon;Sony;Full-Frame;Sony A7R III;4;Zoom;16-35mm;Yes;Yes
+361;53;United Kingdom;England;Male;Enthusiast;1985;Landscape;Nikon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M1 Mark II;3;Zoom;12-40mm;Yes;Yes
+362;23;United States;California;Female;Hobbyist;2017;Portrait;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;35mm;No;Yes
+363;41;Norway;Oslo;Male;Professional;1997;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;5;Prime;85mm;Yes;Yes
+364;38;United Kingdom;Wales;Female;Hobbyist;2004;Travel;Canon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M5 Mark II;2;Prime;25mm;No;Yes
+365;55;Germany;Hamburg;Male;Professional;1984;Documentary;Canon;Nikon;Canon;Full-Frame;Canon EOS R5;5;Zoom;24-70mm;Yes;Yes
+366;28;Spain;Madrid;Male;Hobbyist;2015;Street;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T30;1;Prime;23mm;No;Yes
+367;33;Netherlands;North Holland;Male;Enthusiast;2010;Street;Canon;Nikon;Olympus;Micro 4/3;Olympus PEN-F;2;Prime;17mm;No;Yes
+368;41;Australia;New South Wales;Female;Professional;2001;Portrait;Sony;Canon;Hasselblad;Medium Format;Hasselblad H6D-50c;5;Prime;80mm;No;Yes
+369;25;United States;Colorado;Male;Hobbyist;2018;Street;Fujifilm;Canon;Leica;APS-C;Leica CL;2;Prime;35mm;No;Yes
+370;48;Canada;Alberta;Female;Professional;1994;Sports;Nikon;Canon;Hasselblad;Medium Format;Hasselblad X1D II;4;Zoom;35-75mm;Yes;Yes
+371;48;United States;Texas;Female;Professional;1994;Portrait;Nikon;Canon;Sony;Full-Frame;Sony A7R IV;5;Prime;85mm;Yes;Yes
+372;32;Ireland;Munster;Male;Hobbyist;2007;Landscape;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T4;2;Zoom;16-55mm;No;Yes
+373;39;Sweden;Skåne;Female;Enthusiast;2003;Wildlife;Canon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M1 Mark III;3;Zoom;100-400mm;Yes;Yes
+374;51;France;Normandy;Male;Professional;1986;Wedding;Nikon;Canon;Nikon;Full-Frame;Nikon Z7 II;5;Prime;85mm;Yes;Yes
+375;27;New Zealand;Auckland;Male;Hobbyist;2016;Portrait;Sony;Canon;Olympus;Micro 4/3;Olympus OM-D E-M10 Mark III;1;Prime;25mm;No;Yes
+376;44;United States;Florida;Male;Enthusiast;1994;Sports;Nikon;Canon;Nikon;Full-Frame;Nikon D850;4;Zoom;70-200mm;Yes;Yes
+377;38;Germany;Baden-Württemberg;Female;Professional;2001;Portrait;Canon;Nikon;Sony;Full-Frame;Sony A7R III;4;Prime;50mm;Yes;Yes
+378;60;United Kingdom;England;Male;Professional;1980;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A7 III;5;Prime;85mm;Yes;Yes
+379;34;United Kingdom;Northern Ireland;Female;Enthusiast;2005;Travel;Canon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M5 Mark III;2;Zoom;14-42mm;No;Yes
+380;45;United States;North Carolina;Male;Professional;1996;Commercial;Nikon;Canon;Hasselblad;Medium Format;Hasselblad H6D-50c;5;Prime;50mm;No;Yes
+381;32;Canada;Ontario;Female;Enthusiast;2012;Portrait;Sony;Canon;Leica;Full-Frame;Leica SL2;3;Prime;50mm;No;Yes
+382;29;Finland;Ostrobothnia;Male;Hobbyist;2011;Street;Pentax;Canon;Fujifilm;APS-C;Fujifilm X-T20;1;Prime;23mm;No;Yes
+383;45;Italy;Veneto;Female;Professional;1995;Wedding;Nikon;Canon;Nikon;Full-Frame;Nikon Z6 II;5;Prime;50mm;Yes;Yes
+384;53;Norway;Oslo;Male;Enthusiast;1985;Wildlife;Canon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M1X;3;Zoom;100-400mm;Yes;No
+385;26;Canada;Alberta;Female;Hobbyist;2015;Portrait;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;50mm;No;Yes
+386;41;Japan;Osaka;Male;Professional;1999;Fashion;Nikon;Canon;Sony;Full-Frame;Sony A9 II;5;Prime;85mm;Yes;Yes
+387;32;Australia;Victoria;Female;Hobbyist;2008;Travel;Nikon;Canon;Olympus;Micro 4/3;Olympus OM-D E-M5 Mark II;2;Prime;17mm;No;Yes
+388;28;Poland;Greater Poland;Male;Enthusiast;2012;Landscape;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T4;3;Zoom;16-55mm;No;Yes
+389;49;France;Provence;Female;Professional;1989;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;4;Prime;50mm;Yes;Yes
+390;56;Sweden;Västra Götaland;Male;Professional;1984;Documentary;Canon;Nikon;Nikon;Full-Frame;Nikon Z6 II;5;Prime;35mm;Yes;Yes
+391;27;United Kingdom;Wales;Female;Hobbyist;2016;Portrait;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;35mm;No;Yes
+392;38;Spain;Andalusia;Male;Professional;2003;Landscape;Pentax;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M1X;4;Zoom;12-40mm;Yes;Yes
+393;43;Germany;North Rhine-Westphalia;Female;Enthusiast;1994;Street;Nikon;Canon;Fujifilm;APS-C;Fujifilm X100V;1;Prime;23mm;No;Yes
+394;35;Italy;Sicily;Male;Professional;2004;Wedding;Canon;Nikon;Sony;Full-Frame;Sony A7 III;4;Zoom;24-70mm;Yes;Yes
+395;31;Finland;Pirkanmaa;Female;Hobbyist;2008;Travel;Sony;Nikon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;50mm;No;Yes
+396;24;France;Brittany;Male;Hobbyist;2016;Portrait;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;50mm;No;Yes
+397;55;Austria;Vienna;Female;Professional;1985;Portrait;Canon;Nikon;Sony;Full-Frame;Sony A7R III;5;Prime;85mm;Yes;Yes
+398;28;Singapore;Central Region;Male;Hobbyist;2013;Street;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;23mm;No;Yes
+399;48;Norway;Vestland;Male;Enthusiast;1990;Landscape;Canon;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M1 Mark III;3;Zoom;12-100mm;Yes;Yes
+400;44;United States;Oregon;Male;Professional;1997;Sports;Canon;Nikon;Sony;Full-Frame;Sony A9 II;5;Zoom;70-200mm;Yes;Yes
+401;38;Sweden;Stockholm;Female;Hobbyist;2002;Travel;Pentax;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M5 Mark II;2;Prime;25mm;No;Yes
+402;32;Poland;Pomerania;Male;Enthusiast;2007;Landscape;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T4;2;Zoom;10-24mm;No;Yes
+403;35;Germany;Lower Saxony;Female;Professional;2005;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A7 III;4;Prime;50mm;Yes;Yes
+404;41;United States;Colorado;Male;Enthusiast;1999;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon D780;3;Zoom;100-400mm;Yes;Yes
+405;29;United Kingdom;England;Female;Hobbyist;2014;Travel;Sony;Nikon;Olympus;Micro 4/3;Olympus OM-D E-M5 Mark III;2;Zoom;14-42mm;No;Yes
+406;32;United Kingdom;England;Female;Enthusiast;2010;Street;Fujifilm;Sony;Leica;APS-C;Leica CL;2;Prime;23mm;No;Yes
+407;60;Germany;Rhineland-Palatinate;Male;Professional;1981;Wildlife;Nikon;Canon;Hasselblad;Medium Format;Hasselblad H6D-100c;5;Zoom;300mm;Yes;Yes
+408;26;Portugal;Lisbon;Male;Hobbyist;2016;Portrait;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T200;1;Prime;35mm;No;Yes
+409;50;Canada;Ontario;Female;Professional;1989;Commercial;Canon;Nikon;Sony;Full-Frame;Sony A7 III;5;Zoom;24-70mm;Yes;No
+410;36;Australia;Victoria;Male;Professional;2004;Architecture;Pentax;Canon;Olympus;Micro 4/3;Olympus OM-D E-M1X;4;Zoom;12-40mm;Yes;No
+411;43;Netherlands;Gelderland;Female;Enthusiast;1995;Portrait;Nikon;Canon;Fujifilm;APS-C;Fujifilm X-T4;2;Prime;35mm;Yes;Yes
+412;31;United Kingdom;Scotland;Male;Hobbyist;2008;Street;Canon;Nikon;Fujifilm;APS-C;Fujifilm X100F;1;Prime;23mm;No;Yes
+413;38;United States;Utah;Male;Professional;2003;Travel;Canon;Sony;Canon;Full-Frame;Canon EOS R5;5;Prime;50mm;No;Yes
+414;24;United Kingdom;Wales;Female;Hobbyist;2018;Street;Nikon;Fujifilm;Sony;APS-C;Sony A6100;2;Zoom;18-135mm;No;Yes
+415;56;Canada;Alberta;Male;Professional;1987;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon D6;6;Zoom;200-500mm;Yes;Yes
+416;29;France;Brittany;Female;Enthusiast;2013;Landscape;Sony;Canon;Sony;Full-Frame;Sony A7 II;3;Prime;24mm;No;Yes
+417;41;Germany;Brandenburg;Male;Professional;2000;Fashion;Canon;Sony;Canon;Full-Frame;Canon EOS 5D IV;5;Prime;85mm;Yes;Yes
+418;32;Japan;Hokkaido;Male;Hobbyist;2014;Portrait;Fujifilm;Canon;Fujifilm;APS-C;Fujifilm X-T4;3;Prime;56mm;No;Yes
+419;47;Australia;Victoria;Male;Enthusiast;2005;Documentary;Canon;Nikon;Sony;Full-Frame;Sony A7 III;4;Zoom;24-70mm;No;Yes
+420;26;Germany;Hesse;Female;Hobbyist;2017;Event;Canon;Sony;Canon;APS-C;Canon EOS 80D;2;Prime;35mm;No;Yes
+421;35;United States;Michigan;Male;Professional;2008;Sports;Sony;Canon;Sony;Full-Frame;Sony A9;5;Zoom;70-200mm;No;Yes
+422;50;United Kingdom;England;Female;Enthusiast;1989;Street;Nikon;Canon;Nikon;APS-C;Nikon D7500;3;Prime;35mm;Yes;Yes
+423;39;Italy;Veneto;Male;Professional;2001;Landscape;Canon;Sony;Canon;Full-Frame;Canon EOS R6;4;Prime;24mm;Yes;Yes
+424;31;Japan;Osaka;Female;Hobbyist;2015;Fashion;Sony;Canon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;35mm;No;Yes
+425;60;United States;Illinois;Male;Professional;1980;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon Z7 II;5;Zoom;200-500mm;Yes;Yes
+426;28;Canada;Quebec;Female;Enthusiast;2014;Event;Fujifilm;Fujifilm;Sony;APS-C;Sony A6300;3;Zoom;16-70mm;No;Yes
+427;36;United Kingdom;Northern Ireland;Male;Professional;2007;Commercial;Canon;Sony;Canon;Full-Frame;Canon EOS 1DX II;4;Zoom;70-200mm;Yes;Yes
+428;48;France;Provence;Female;Hobbyist;1990;Architecture;Nikon;Nikon;Fujifilm;APS-C;Fujifilm X-E3;3;Prime;23mm;Yes;Yes
+429;27;Australia;New South Wales;Male;Enthusiast;2016;Travel;Sony;Canon;Sony;APS-C;Sony A6400;2;Zoom;16-70mm;No;Yes
+430;44;United States;Ohio;Female;Professional;1999;Portrait;Canon;Nikon;Canon;Full-Frame;Canon EOS 5D III;4;Prime;85mm;No;Yes
+431;37;Germany;Hamburg;Male;Enthusiast;2008;Event;Sony;Canon;Sony;APS-C;Sony A6300;3;Zoom;18-105mm;No;Yes
+432;31;New Zealand;Queenstown;Female;Hobbyist;2012;Street;Canon;Canon;Fujifilm;APS-C;Fujifilm X-T200;2;Prime;35mm;No;Yes
+433;42;United States;New Jersey;Male;Professional;2000;Sports;Nikon;Nikon;Sony;Full-Frame;Sony A9 II;5;Zoom;400mm;Yes;Yes
+434;58;Canada;British Columbia;Male;Enthusiast;1985;Travel;Canon;Canon;Sony;Full-Frame;Sony A7R II;3;Zoom;24-70mm;Yes;Yes
+435;34;Japan;Tokyo;Male;Professional;2011;Architecture;Fujifilm;Nikon;Canon;Full-Frame;Canon EOS R;4;Prime;35mm;No;Yes
+436;49;Australia;Queensland;Female;Professional;1995;Landscape;Canon;Sony;Nikon;Full-Frame;Nikon Z7;5;Prime;24mm;Yes;Yes
+437;29;United States;Massachusetts;Male;Hobbyist;2014;Portrait;Sony;Canon;Sony;APS-C;Sony A6400;3;Prime;50mm;No;Yes
+438;35;Germany;Bavaria;Female;Enthusiast;2010;Street;Canon;Sony;Canon;APS-C;Canon EOS M50;2;Zoom;16-50mm;No;Yes
+439;35;United States;Ohio;Male;Professional;2007;Architecture;Sony;Canon;Hasselblad;Medium Format;Hasselblad H6D-50c;4;Prime;35mm;No;Yes
+440;22;United Kingdom;England;Male;Hobbyist;2021;Street;Canon;Sony;Leica;APS-C;Leica CL;2;Prime;35mm;No;Yes
+441;47;United Kingdom;England;Male;Professional;1997;Fashion;Canon;Nikon;Hasselblad;Medium Format;Hasselblad H6D-100c;5;Prime;120mm;Yes;Yes
+442;52;United Kingdom;England;Male;Professional;1985;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon D5;6;Zoom;200-500mm;Yes;Yes
+443;30;Italy;Tuscany;Female;Hobbyist;2013;Travel;Fujifilm;Fujifilm;Canon;APS-C;Canon EOS 77D;3;Prime;35mm;No;Yes
+444;40;United States;Texas;Male;Enthusiast;2005;Sports;Canon;Nikon;Canon;Full-Frame;Canon EOS R6;5;Zoom;70-200mm;No;Yes
+445;28;Japan;Kyoto;Female;Hobbyist;2016;Portrait;Sony;Canon;Sony;APS-C;Sony A6000;2;Prime;50mm;No;Yes
+446;47;Australia;Western Australia;Male;Professional;1998;Documentary;Canon;Nikon;Canon;Full-Frame;Canon EOS R3;4;Prime;35mm;Yes;Yes
+447;33;France;Île-de-France;Female;Enthusiast;2012;Street;Fujifilm;Canon;Fujifilm;APS-C;Fujifilm X-T4;3;Prime;23mm;No;Yes
+448;46;Germany;Lower Saxony;Male;Professional;2002;Commercial;Nikon;Canon;Sony;Full-Frame;Sony A7R IV;5;Zoom;24-70mm;Yes;Yes
+449;23;Canada;Ontario;Female;Hobbyist;2020;Travel;Canon;Canon;Fujifilm;APS-C;Fujifilm X-T30;2;Zoom;16-50mm;No;Yes
+450;54;United States;California;Male;Professional;1986;Fashion;Canon;Nikon;Canon;Full-Frame;Canon EOS R5;4;Prime;85mm;Yes;Yes
+451;29;United Kingdom;Scotland;Female;Enthusiast;2012;Event;Sony;Canon;Sony;APS-C;Sony A6400;3;Zoom;18-105mm;No;Yes
+452;38;Australia;New South Wales;Male;Enthusiast;2008;Wildlife;Canon;Sony;Canon;Full-Frame;Canon EOS 6D II;4;Zoom;100-400mm;Yes;Yes
+453;38;Germany;North Rhine-Westphalia;Male;Enthusiast;2008;Street;Nikon;Canon;Leica;Full-Frame;Leica Q2;1;Prime;28mm;No;Yes
+454;53;United Kingdom;Northern Ireland;Male;Professional;1986;Wildlife;Canon;Sony;Hasselblad;Medium Format;Hasselblad H6D-50c;5;Zoom;120mm;Yes;Yes
+455;57;United States;Oregon;Female;Professional;1985;Sports;Nikon;Canon;Nikon;Full-Frame;Nikon D6;6;Zoom;400mm;No;Yes
+456;29;Australia;Tasmania;Female;Enthusiast;2015;Event;Sony;Canon;Leica;Full-Frame;Leica SL2-S;2;Prime;50mm;No;No
+457;44;United States;Utah;Male;Professional;2000;Sports;Canon;Sony;Hasselblad;Medium Format;Hasselblad X1D II;4;Zoom;90mm;Yes;Yes
+458;24;Japan;Okinawa;Male;Hobbyist;2019;Street;Fujifilm;Canon;Fujifilm;APS-C;Fujifilm X-E4;2;Prime;35mm;No;Yes
+459;39;United States;Florida;Male;Professional;2004;Portrait;Canon;Sony;Canon;Full-Frame;Canon EOS R6;4;Prime;85mm;No;Yes
+460;32;Canada;Quebec;Male;Enthusiast;2010;Fashion;Sony;Fujifilm;Canon;APS-C;Canon EOS M6 II;3;Prime;50mm;No;Yes
+461;42;Germany;Berlin;Female;Professional;1999;Architecture;Canon;Nikon;Canon;Full-Frame;Canon EOS 5D IV;5;Zoom;16-35mm;Yes;Yes
+462;30;Italy;Lombardy;Male;Hobbyist;2013;Travel;Nikon;Canon;Nikon;APS-C;Nikon D7500;3;Prime;35mm;No;Yes
+463;53;United Kingdom;Wales;Male;Enthusiast;1992;Landscape;Canon;Canon;Sony;Full-Frame;Sony A7R III;4;Zoom;24-70mm;Yes;Yes
+464;27;United States;Nevada;Male;Hobbyist;2016;Street;Sony;Sony;Canon;APS-C;Canon EOS M50;2;Prime;35mm;No;Yes
+465;34;Japan;Okinawa;Female;Professional;2010;Commercial;Canon;Sony;Canon;Full-Frame;Canon EOS 5D III;5;Zoom;70-200mm;Yes;Yes
+466;49;United Kingdom;England;Male;Enthusiast;1995;Sports;Nikon;Canon;Nikon;Full-Frame;Nikon D850;6;Zoom;200-500mm;No;Yes
+467;41;United States;Indiana;Male;Professional;1999;Sports;Canon;Nikon;Sony;Full-Frame;Sony A1;6;Zoom;70-200mm;No;Yes
+468;34;Germany;Baden-Württemberg;Female;Enthusiast;2012;Portrait;Fujifilm;Canon;Fujifilm;APS-C;Fujifilm X-T3;3;Prime;56mm;No;Yes
+469;50;United Kingdom;London;Male;Professional;1987;Fashion;Nikon;Canon;Sony;Full-Frame;Sony A1;5;Prime;85mm;Yes;Yes
+470;28;Australia;Tasmania;Female;Hobbyist;2015;Street;Sony;Canon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;35mm;No;Yes
+471;43;Belgium;Brussels;Male;Professional;2002;Landscape;Canon;Nikon;Canon;Full-Frame;Canon EOS 5D IV;4;Zoom;24-70mm;Yes;Yes
+472;37;United States;Minnesota;Female;Enthusiast;2009;Travel;Nikon;Sony;Canon;APS-C;Canon EOS M50;3;Prime;35mm;No;No
+473;43;United States;Washington;Male;Professional;1998;Landscape;Nikon;Canon;Hasselblad;Medium Format;Hasselblad H6D-50c;5;Prime;50mm;Yes;Yes
+474;52;Japan;Nagano;Male;Professional;1988;Wildlife;Canon;Sony;Sony;Full-Frame;Sony A1;6;Zoom;100-400mm;Yes;Yes
+475;39;Germany;Saxony;Female;Enthusiast;2006;Travel;Fujifilm;Canon;Leica;Full-Frame;Leica SL2-S;3;Prime;35mm;No;Yes
+476;30;Canada;Saskatchewan;Male;Hobbyist;2014;Portrait;Fujifilm;Fujifilm;Sony;APS-C;Sony A6500;2;Prime;50mm;No;No
+477;48;United States;Kentucky;Male;Professional;1993;Event;Nikon;Nikon;Sony;Full-Frame;Sony A1;5;Zoom;24-70mm;No;Yes
+478;25;United Kingdom;Wales;Female;Hobbyist;2017;Street;Canon;Nikon;Fujifilm;APS-C;Fujifilm X-T100;2;Zoom;18-55mm;No;Yes
+479;44;France;Normandy;Male;Professional;1999;Sports;Nikon;Canon;Sony;Full-Frame;Sony A1;5;Zoom;70-200mm;No;Yes
+480;36;Australia;Northern Territory;Female;Enthusiast;2010;Travel;Canon;Sony;Canon;APS-C;Canon EOS 80D;3;Zoom;18-55mm;No;No
+481;32;United States;Louisiana;Male;Professional;2011;Portrait;Sony;Canon;Sony;Full-Frame;Sony A7R IV;5;Prime;85mm;No;Yes
+482;60;Germany;Saxony-Anhalt;Female;Enthusiast;1985;Landscape;Canon;Canon;Nikon;Full-Frame;Nikon D850;4;Zoom;24-70mm;Yes;No
+483;39;United Kingdom;Northern Ireland;Male;Professional;2004;Architecture;Fujifilm;Canon;Sony;Full-Frame;Sony A7 III;3;Prime;35mm;Yes;Yes
+484;29;United States;Maryland;Female;Hobbyist;2013;Event;Canon;Sony;Fujifilm;APS-C;Fujifilm X-E4;2;Zoom;16-50mm;No;No
+485;47;Italy;Lazio;Male;Professional;1995;Fashion;Canon;Nikon;Canon;Full-Frame;Canon EOS R5;5;Prime;85mm;Yes;Yes
+486;34;Canada;Newfoundland and Labrador;Female;Enthusiast;2010;Travel;Nikon;Canon;Sony;APS-C;Sony A6300;2;Prime;35mm;No;No
+487;56;United States;New Mexico;Male;Professional;1987;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon Z9;5;Zoom;400mm;Yes;Yes
+488;31;Australia;Western Australia;Female;Hobbyist;2014;Travel;Fujifilm;Fujifilm;Canon;APS-C;Canon EOS M6 II;3;Prime;35mm;No;Yes
+489;40;United States;Montana;Male;Professional;2005;Sports;Canon;Nikon;Sony;Full-Frame;Sony A1;6;Zoom;400mm;No;Yes
+490;27;Germany;Bremen;Female;Enthusiast;2015;Street;Canon;Fujifilm;Canon;APS-C;Canon EOS 77D;3;Zoom;18-135mm;No;Yes
+491;53;France;Île-de-France;Male;Professional;1986;Documentary;Nikon;Canon;Nikon;Full-Frame;Nikon Z6 II;4;Prime;50mm;Yes;Yes
+492;23;United States;Missouri;Female;Hobbyist;2020;Street;Fujifilm;Canon;Fujifilm;APS-C;Fujifilm X-T200;2;Prime;35mm;No;No
+493;46;United Kingdom;England;Male;Professional;2001;Architecture;Canon;Sony;Sony;Full-Frame;Sony A1;5;Zoom;16-35mm;Yes;Yes
+494;33;Spain;Madrid;Female;Enthusiast;2012;Wildlife;Nikon;Canon;Nikon;APS-C;Nikon D7500;3;Zoom;100-400mm;No;Yes
+495;49;Canada;Alberta;Male;Professional;1994;Commercial;Canon;Nikon;Sony;Full-Frame;Sony A7R IV;5;Prime;85mm;Yes;No
+496;36;United States;Arkansas;Female;Hobbyist;2011;Portrait;Sony;Canon;Fujifilm;APS-C;Fujifilm X-T4;3;Prime;50mm;No;No
+497;29;Australia;South Australia;Male;Enthusiast;2014;Travel;Canon;Nikon;Sony;APS-C;Sony A6500;3;Zoom;18-105mm;No;Yes
+498;58;United Kingdom;Scotland;Female;Professional;1983;Documentary;Canon;Canon;Sony;Full-Frame;Sony A1;5;Prime;35mm;Yes;Yes
+499;30;United States;Kansas;Male;Hobbyist;2013;Landscape;Fujifilm;Sony;Canon;APS-C;Canon EOS 90D;3;Zoom;18-135mm;No;No
+500;38;Italy;Emilia-Romagna;Female;Enthusiast;2008;Event;Sony;Canon;Sony;Full-Frame;Sony A7 III;4;Prime;50mm;No;Yes
+501;28;Australia;Victoria;Female;Enthusiast;2014;Street;Canon;Nikon;Leica;APS-C;Leica CL;2;Prime;35mm;No;Yes
+502;54;United States;Connecticut;Male;Professional;1989;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon D6;6;Zoom;400mm;Yes;Yes
+503;32;Germany;Schleswig-Holstein;Female;Hobbyist;2011;Portrait;Canon;Fujifilm;Sony;APS-C;Sony A6400;3;Prime;50mm;No;Yes
+504;45;United States;Hawaii;Male;Professional;1997;Commercial;Canon;Nikon;Sony;Full-Frame;Sony A1;5;Zoom;24-70mm;No;Yes
+505;28;United Kingdom;Northern Ireland;Female;Enthusiast;2014;Street;Fujifilm;Canon;Fujifilm;APS-C;Fujifilm X-T30;2;Prime;23mm;No;Yes
+506;47;Australia;Queensland;Male;Professional;2000;Sports;Nikon;Canon;Sony;Full-Frame;Sony A1;6;Zoom;400mm;Yes;Yes
+507;31;Japan;Kyoto;Female;Enthusiast;2012;Landscape;Nikon;Canon;Nikon;APS-C;Nikon D7500;3;Zoom;24-70mm;No;No
+508;39;United States;Oklahoma;Male;Hobbyist;2007;Event;Sony;Canon;Sony;APS-C;Sony A6000;2;Prime;50mm;No;Yes
+509;26;Germany;Rhineland-Palatinate;Female;Hobbyist;2016;Travel;Canon;Fujifilm;Canon;APS-C;Canon EOS M50;2;Zoom;18-55mm;No;Yes
+510;35;United Kingdom;England;Male;Professional;2008;Fashion;Canon;Sony;Canon;Full-Frame;Canon EOS R5;4;Prime;85mm;Yes;Yes
+511;58;United States;Washington;Female;Enthusiast;1982;Travel;Nikon;Canon;Nikon;Full-Frame;Nikon Z6;4;Prime;50mm;Yes;No
+512;24;Canada;British Columbia;Male;Hobbyist;2019;Street;Sony;Canon;Sony;APS-C;Sony A6400;2;Prime;35mm;No;Yes
+513;36;Spain;Madrid;Female;Professional;2010;Wedding;Nikon;Sony;Canon;Full-Frame;Canon EOS R6;4;Prime;50mm;No;Yes
+514;41;United States;Wisconsin;Male;Enthusiast;2003;Landscape;Canon;Canon;Fujifilm;APS-C;Fujifilm X-T4;3;Zoom;16-55mm;No;Yes
+515;55;United Kingdom;Wales;Male;Professional;1985;Portrait;Nikon;Canon;Nikon;Full-Frame;Nikon D850;4;Prime;85mm;Yes;Yes
+516;29;Japan;Osaka;Male;Enthusiast;2016;Street;Fujifilm;Fujifilm;Canon;APS-C;Canon EOS M6;3;Zoom;18-55mm;No;No
+517;42;Italy;Veneto;Female;Professional;1999;Wildlife;Canon;Nikon;Sony;Full-Frame;Sony A1;5;Zoom;200-600mm;Yes;Yes
+518;37;United States;South Carolina;Male;Professional;2006;Portrait;Nikon;Sony;Canon;Full-Frame;Canon EOS R5;4;Prime;85mm;No;Yes
+519;29;Canada;Nova Scotia;Female;Enthusiast;2014;Travel;Fujifilm;Canon;Fujifilm;APS-C;Fujifilm X-T200;2;Zoom;18-55mm;No;Yes
+520;50;United Kingdom;England;Male;Professional;1991;Landscape;Canon;Nikon;Sony;Full-Frame;Sony A1;5;Prime;24mm;Yes;Yes
+521;33;Australia;Queensland;Male;Hobbyist;2012;Portrait;Canon;Fujifilm;Sony;APS-C;Sony A6300;3;Prime;50mm;No;Yes
+522;46;United States;Arizona;Male;Professional;1998;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon D5;5;Zoom;200-500mm;Yes;No
+523;28;Japan;Hiroshima;Female;Enthusiast;2016;Street;Fujifilm;Canon;Fujifilm;APS-C;Fujifilm X-T30;3;Prime;35mm;No;Yes
+524;39;United Kingdom;Scotland;Male;Professional;2004;Event;Canon;Sony;Canon;Full-Frame;Canon EOS 5D III;4;Prime;50mm;Yes;No
+525;54;Germany;Bavaria;Female;Enthusiast;1990;Travel;Nikon;Canon;Nikon;APS-C;Nikon D7500;3;Zoom;18-140mm;No;Yes
+526;42;United States;Tennessee;Male;Professional;2000;Fashion;Canon;Nikon;Sony;Full-Frame;Sony A1;5;Prime;85mm;No;Yes
+527;27;Canada;British Columbia;Female;Hobbyist;2017;Street;Sony;Fujifilm;Sony;APS-C;Sony A6400;2;Prime;35mm;No;No
+528;31;United States;Colorado;Male;Enthusiast;2012;Sports;Canon;Canon;Sony;APS-C;Sony A6000;3;Zoom;70-200mm;No;Yes
+529;55;United Kingdom;England;Male;Professional;1985;Architecture;Nikon;Canon;Hasselblad;Medium Format;Hasselblad X1D II;3;Zoom;30mm;Yes;Yes
+530;59;Italy;Piedmont;Male;Professional;1980;Documentary;Canon;Nikon;Leica;Full-Frame;Leica SL2;4;Prime;35mm;Yes;Yes
+531;35;United Kingdom;Wales;Male;Hobbyist;2011;Travel;Fujifilm;Canon;Fujifilm;APS-C;Fujifilm X-T4;3;Prime;35mm;No;Yes
+532;41;Portugal;Lisbon;Female;Professional;2003;Wedding;Nikon;Canon;Sony;Full-Frame;Sony A7R III;4;Prime;50mm;No;Yes
+533;30;United States;Iowa;Male;Professional;2010;Architecture;Sony;Canon;Sony;Full-Frame;Sony A7R IV;4;Zoom;16-35mm;No;Yes
+534;48;France;Provence;Female;Enthusiast;1995;Wildlife;Nikon;Canon;Nikon;Full-Frame;Nikon Z6;4;Zoom;100-400mm;Yes;No
+535;24;Japan;Fukuoka;Male;Hobbyist;2020;Street;Fujifilm;Canon;Fujifilm;APS-C;Fujifilm X-E4;2;Prime;35mm;No;Yes
+536;36;United States;Maine;Female;Enthusiast;2008;Landscape;Canon;Sony;Canon;APS-C;Canon EOS 90D;3;Zoom;24-70mm;No;Yes
+537;51;United Kingdom;England;Male;Professional;1987;Fashion;Nikon;Canon;Sony;Full-Frame;Sony A1;4;Prime;85mm;Yes;Yes
+538;26;Australia;Victoria;Male;Hobbyist;2018;Travel;Canon;Nikon;Canon;APS-C;Canon EOS 77D;2;Zoom;18-55mm;No;Yes
+539;42;United States;New York;Male;Professional;1997;Fashion;Nikon;Canon;Hasselblad;Medium Format;Hasselblad H6D-100c;4;Prime;80mm;Yes;Yes
+540;29;Germany;Berlin;Female;Enthusiast;2015;Street;Canon;Sony;Leica;Full-Frame;Leica Q2;1;Prime;28mm;No;Yes
+541;25;Canada;Newfoundland and Labrador;Male;Hobbyist;1987;Architecture;Fujifilm;Fujifilm;Canon;Full-Frame;Canon EOS R3;2;Zoom;85mm;No;Yes
+542;66;Austria;Salzburg;Male;Enthusiast;2004;Astro;Sony;Leica;Sony;Full-Frame;Sony A7;1;Zoom;90mm;Yes;Yes
+543;55;Canada;New Brunswick;Male;Hobbyist;2001;Landscape;Sony;Fujifilm;Sony;APS-C;Sony Alpha 6300;2;Zoom;90mm;Yes;Yes
+544;35;United Kingdom;Wales;Female;Enthusiast;2019;Macro;Olympus;Nikon;Fujifilm;APS-C;Fujifilm X-T30 II;5;Zoom;35mm;No;Yes
+545;34;Japan;Hokkaido;Female;Professional;2006;Street;Leica;Leica;Leica;Full-Frame;Leica M10;2;Prime;35mm;No;Yes
+546;56;Finland;Lapland;Male;Enthusiast;1994;Landscape;Canon;Nikon;Nikon;Full-Frame;Nikon Z8;3;Prime;135mm;No;Yes
+547;28;Italy;Abruzzo;Male;Enthusiast;2016;Portrait;Nikon;Sony;Sony;APS-C;Sony Alpha 6700;2;Prime;50mm;No;Yes
+548;45;Portugal;Faro;Female;Hobbyist;2008;Street;Nikon;Panasonic;Leica;Full-Frame;Leica M11;2;Prime;50mm;No;Yes
+549;42;Denmark;Region Zealand;Male;Professional;2007;Commercial;Nikon;Nikon;Hasselblad;Medium Format;Hasselblad X2D 100C;2;Prime;80mm;No;Yes
+550;31;Germany;Hesse;Male;Enthusiast;2014;Portrait;Canon;Sony;Sony;Full-Frame;Sony A7 III;1;Prime;85mm;No;No
