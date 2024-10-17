@@ -20,6 +20,7 @@ The responses were saved in an Excel file for further analysis.
 ### Data Collection:
 
 The survey responses were saved in an Excel sheet, which contains information such as:
+
 Demographics (age, gender, location)
 Product preferences (brands, cameras, lenses)
 User behaviour (main fields of photography, experience)
@@ -44,11 +45,17 @@ A Tableau Story was built to provide a cohesive narrative of the findings from t
 Some of the major insights derived from the data analysis include:
 
 Demographics: A significant portion of customers belong to the 25-40 age group, with a nearly even gender distribution.
+
 Geographic Trends: The majority of customers are from North America.
+
 Product Preferences: Sony is the most popular brand among our customers.
+
 Preferencecs by Experience: Full-Frame and Medium Format cameras are mainly used by professionals.
+
 Brands: Sony and Fuji gained popularity while Canon and Nikon lost customers.
+
 Satisfaction Levels: A general high customer satisfaction.
+
 Conclusion: We should collect more Data for specific regions to further learn about our customers needs.
 
 
